@@ -1,3 +1,1 @@
-bar
-
 # github-demo
